@@ -16,11 +16,11 @@ The encoder is tested with the following dependency settings:
   * tqdm==4.31.1
 
 # Two pretrained encoders:
-models/BNE_SGw and models/Emb_SGsc
+models/BNE_SGw and models/BNE_SGsc
 
 # Usage
 1. Download and extract two pretrained word embedding files: [Emb_SGw.txt and Emb_SGsc.txt](https://bit.ly/2LnM5E7). These embeddings are pretrained on PubMed abstracts using skip-gram models.
-2. Create a file names.txt that stores the input names, one name on each line.
+2. Create an input file names.txt to store the input names, one name on each line.
 3. Run either of these commands. You will need to update the paths accordingly.
 ```
 python bne.py --model models/BNE_SGw --fe e:/Emb_SGw.txt --fi names.txt --fo output_BNE_SGw.txt
@@ -28,9 +28,9 @@ python bne.py --model models/BNE_SGsc --fe e:/Emb_SGsc.txt --fi names.txt --fo o
 ```
 
 # Pre-calculated UMLS name embeddings
-We calculate embeddings of 2.2 million concept names collected from UMLS. Specifically, these names are specified by the 'STR' column in MRCONSO.RRF file, UMLS 2018AA-full dump. We consider the names in 4 popular biomedical vocabularies OMIM, SNOMEDCT_US, MSH, and ICD10.
+We calculate embeddings of 2.2 million concept names collected from UMLS. Specifically, these names are specified by the 'STR' column in MRCONSO.RRF file, UMLS 2018AA-full dump. We consider only the names in 4 popular biomedical vocabularies OMIM, SNOMEDCT_US, MSH, and ICD10.
 
-Download these name embeddings using this link [UMLS_output_BNE_SGw.txt](https://bit.ly/2Gg0Qo9)
+Download these name embeddings by this link [UMLS_output_BNE_SGw.txt](https://bit.ly/2Gg0Qo9)
 
 
 
