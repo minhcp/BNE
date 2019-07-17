@@ -1,6 +1,4 @@
-# BNE
-Pretrained Biomedical Name Encoder
-
+# Pretrained Biomedical Name Encoder
 
 This repository contains the pre-trained biomedical name encoders proposed in the paper "Robust Representation Learning of Biomedical Names", ACL 2019.
 
