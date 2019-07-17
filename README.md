@@ -19,7 +19,7 @@ The encoder is tested with the following dependency settings:
 models/BNE_SGw and models/Emb_SGsc
 
 # Usage
-1. Download and extract two pretrained word embedding files: [Emb_SGw.txt and Emb_SGsc.txt](https://bit.ly/2LnM5E7). These embeddings are pretrained on a PubMed abstracts using skip-gram models.
+1. Download and extract two pretrained word embedding files: [Emb_SGw.txt and Emb_SGsc.txt](https://bit.ly/2LnM5E7). These embeddings are pretrained on PubMed abstracts using skip-gram models.
 2. Create a file names.txt that stores the input names, one name on each line.
 3. Run either of these commands. You will need to update the paths accordingly.
 ```
