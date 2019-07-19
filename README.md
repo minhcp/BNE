@@ -16,7 +16,7 @@ The encoder is tested with the following dependency settings:
   * tqdm==4.31.1
 
 # Two pretrained encoders
-We release **BNE_SGw** and **BNE_SGsc** pretrained encoders described in our paper. These encoders are based on **BiLSTM**. They take word embeddings as input and calculate the representation for each name (multi-word expression).
+We release **BNE_SGw** and **BNE_SGsc** pretrained encoders described in our paper. These encoders are based on **BiLSTM**. They take word embeddings as input and calculate a vector representation for each name (multi-word expression).
   * The input word embeddings used by BNE_SGw are trained by a skip-gram model.
   * The input word embeddings used by BNE_SGsc are trained jointly with name phrase and concept embeddings, by another skip-gram model.
 
