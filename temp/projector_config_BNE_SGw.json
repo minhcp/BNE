@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": BNE_SGw
+      "tensorName": "BNE_SGw",
       "tensorShape": [
         254,
         200
