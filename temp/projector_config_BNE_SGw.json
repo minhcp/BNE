@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": BNE_SGw
+      "tensorShape": [
+        254,
+        200
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/minhcp/BNE/master/projector/vectors_output_BNE_SGw.txt.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/minhcp/BNE/master/projector/metadata_output_BNE_SGw.txt.tsv"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 Name	Label
+cardiomyopathies hypertrophic	cardiomyopathy hypertrophic
 cardiomyopathies hypertrophic obstructive	cardiomyopathy hypertrophic
 cardiomyopathy hypertrophic	cardiomyopathy hypertrophic
 cardiomyopathy hypertrophic disease finding	cardiomyopathy hypertrophic
@@ -24,7 +25,7 @@ obstructive cardiomyopathy hypertrophic	cardiomyopathy hypertrophic
 obstructive hypertrophic cardiomyopathy	cardiomyopathy hypertrophic
 obstructive hypertrophic cardiomyopathy diagnosis	cardiomyopathy hypertrophic
 subvalv stenosis	cardiomyopathy hypertrophic
-cardiac toxicities	cardiomyopathy hypertrophic
+cardiac toxicities	cardiotoxicity
 cardiac toxicity	cardiotoxicity
 cardiotoxic	cardiotoxicity
 cardiotoxicities	cardiotoxicity
@@ -34,7 +35,7 @@ cardiotoxity	cardiotoxicity
 central nervous cardiac toxicity	cardiotoxicity
 toxicities cardiac	cardiotoxicity
 toxicity cardiac	cardiotoxicity
-colitis ischaemic	cardiotoxicity
+colitis ischaemic	colitis ischemic
 colitis ischemic	colitis ischemic
 colitis ischemic disease finding	colitis ischemic
 colonic ischaemia	colitis ischemic
@@ -43,12 +44,12 @@ ischaemic colitis	colitis ischemic
 ischemic colitis	colitis ischemic
 ischemic colitis diagnosis	colitis ischemic
 ischemic colitis disorder	colitis ischemic
-endotoxaemia	colitis ischemic
+endotoxaemia	endotoxemia
 endotoxemia	endotoxemia
 endotoxemia disease finding	endotoxemia
 endotoxemia disorder	endotoxemia
 endotoxemias	endotoxemia
-blood -- diseases	endotoxemia
+blood -- diseases	hematologic diseases
 blood blood forming organ	hematologic diseases
 blood blood forming organ disease	hematologic diseases
 blood blood forming organ disease disorder	hematologic diseases
@@ -114,7 +115,7 @@ hematopoietic system syndrome	hematologic diseases
 hemopoietic disease	hematologic diseases
 hemopoietic disorder	hematologic diseases
 unspecified diseases blood blood forming organs	hematologic diseases
-lead compound causing toxic effect	hematologic diseases
+lead compound causing toxic effect	lead poisoning
 lead compound causing toxic effect disorder	lead poisoning
 lead compound poisoning	lead poisoning
 lead compound poisoning disorder	lead poisoning
@@ -146,7 +147,7 @@ toxic effect lead its compounds	lead poisoning
 toxic effect lead its compounds including fumes	lead poisoning
 toxic effect unspecified lead compound	lead poisoning
 toxic effects lead its compounds	lead poisoning
-disorder paranoid	lead poisoning
+disorder paranoid	paranoid disorders
 disorders paranoid	paranoid disorders
 paranoia	paranoid disorders
 paranoia psychosis	paranoid disorders
@@ -165,7 +166,7 @@ psychoses paranoid	paranoid disorders
 psychosis paranoid	paranoid disorders
 psychotic paranoia	paranoid disorders
 x]paranoid psychosis	paranoid disorders
-agitans paralysis	paranoid disorders
+agitans paralysis	parkinson disease
 bodies disease lewy parkinson 's	parkinson disease
 disease disorders parkinson 's	parkinson disease
 disease idiopathic parkinsons	parkinson disease
@@ -212,7 +213,7 @@ pd parkinson 's disease	parkinson disease
 primary parkinsonism	parkinson disease
 shaking palsy	parkinson disease
 syndrome parkinson 's	parkinson disease
-benign hypertension intracranial	parkinson disease
+benign hypertension intracranial	pseudotumor cerebri
 benign intracran hypt	pseudotumor cerebri
 benign intracranial hyperten	pseudotumor cerebri
 benign intracranial hypertension	pseudotumor cerebri
@@ -236,7 +237,7 @@ pseudotumor cerebri	pseudotumor cerebri
 pseudotumor cerebri disease finding	pseudotumor cerebri
 pseudotumour cerebri	pseudotumor cerebri
 syndrome pseudotumor cerebri	pseudotumor cerebri
-disease rheumatic	pseudotumor cerebri
+disease rheumatic	rheumatic diseases
 diseases rheumatic	rheumatic diseases
 locomotor pain disorder	rheumatic diseases
 musculoskeletal pain disorder	rheumatic diseases

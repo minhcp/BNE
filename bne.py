@@ -74,9 +74,6 @@ if __name__ == '__main__':
     names = []
     with open(arg_fi, encoding='utf8') as f:
         for i, line in enumerate(f):
-            if i == 0: 
-                # Skip the header line
-                continue
             if line.strip() != '':
                 names.append(line.split('\t')[0].strip())
     name_to_pname = dict([(_, preprocess_name(_)) for _ in names])
@@ -155,14 +152,15 @@ if __name__ == '__main__':
     # Export files for embedding visualization.
     # https://projector.tensorflow.org/
     if arg_fl is not None:
-        labels = []
         f_metadata = 'projector/metadata_{}.tsv'.format(arg_fo)
         f_vectors = 'projector/vectors_{}.tsv'.format(arg_fo)
         print('Export embedding projector files into {} and {}'
               .format(f_metadata, f_vectors))
+        labels = []
         with open(arg_fl, encoding='utf8') as f:
             for line in f:
                 labels.append(line.strip())
+        assert len(names) == len(labels) == len(name_vecs)
         with open(f_metadata, 'w', encoding='utf8') as f:
             f.write('Name\tLabel\n')
             for name, label in zip(names, labels):
