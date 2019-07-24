@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "AvgEmb_SGw",
       "tensorShape": [
         254,
         200
       ],
-      "tensorPath": "https://github.com/minhcp/BNE/blob/master/projector/vectors_output_AvgEmb_SGw.txt.tsv",
-      "metadataPath": "https://github.com/minhcp/BNE/blob/master/projector/metadata_output_AvgEmb_SGw.txt.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/minhcp/BNE/master/projector/vectors_output_AvgEmb_SGw.txt.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/minhcp/BNE/master/projector/metadata_output_AvgEmb_SGw.txt.tsv"
     }
   ]
 }
