@@ -1,5 +1,254 @@
-Ischemic heart disease
-Lower respiratory infections
-Diabetes mellitus
-Alzheimer's disease
-Dehydration
+cardiomyopathies hypertrophic
+cardiomyopathies hypertrophic obstructive
+cardiomyopathy hypertrophic
+cardiomyopathy hypertrophic disease finding
+cardiomyopathy hypertrophic obstructive
+cardiomyopathy obstructive
+hcm hypertrophic cardiomyopathy
+hocm
+hocm hypertrophic obstructive cardiomyopathy
+hyper obst cardiomyopathy
+hypertrophic cardiomyopathies
+hypertrophic cardiomyopathy
+hypertrophic cardiomyopathy diagnosis
+hypertrophic cardiomyopathy disorder
+hypertrophic cardiomyopathy hcm
+hypertrophic myocardiopathy
+hypertrophic obstructive cardiomyopathies
+hypertrophic obstructive cardiomyopathy
+hypertrophic obstructive cardiomyopathy disorder
+hyprtrophc obst cardiomy
+obstructive cardiomyopathies hypertrophic
+obstructive cardiomyopathy
+obstructive cardiomyopathy hypertrophic
+obstructive hypertrophic cardiomyopathy
+obstructive hypertrophic cardiomyopathy diagnosis
+subvalv stenosis
+cardiac toxicities
+cardiac toxicity
+cardiotoxic
+cardiotoxicities
+cardiotoxicity
+cardiotoxicity disease finding
+cardiotoxity
+central nervous cardiac toxicity
+toxicities cardiac
+toxicity cardiac
+colitis ischaemic
+colitis ischemic
+colitis ischemic disease finding
+colonic ischaemia
+colonic ischemia
+ischaemic colitis
+ischemic colitis
+ischemic colitis diagnosis
+ischemic colitis disorder
+endotoxaemia
+endotoxemia
+endotoxemia disease finding
+endotoxemia disorder
+endotoxemias
+blood -- diseases
+blood blood forming organ
+blood blood forming organ disease
+blood blood forming organ disease disorder
+blood blood forming organ disorders
+blood dis
+blood disease
+blood diseases
+blood diseases disorder
+blood disorder
+blood disorder diagnosis
+blood disorders
+blood dyscrasia
+blood dyscrasia disorder
+blood dyscrasias
+cytopenia
+disease blood
+disease blood blood forming organ
+disease blood blood forming organs unspecified
+disease blood or blood forming organ
+disease blood or blood forming organ navigational concept
+disease haematopoietic system
+disease hematologic
+disease hematological
+disease hematopoietic system
+disease hematopoietic system disorder
+disease or disorder blood
+disease or disorder hematological
+diseases blood
+diseases blood blood forming organs
+diseases blood blood forming organs disorder
+diseases blood blood forming organs unspecified
+diseases hematologic
+diseases hematological
+disorder blood
+disorder haematopoietic system
+disorder hematologic
+disorder hematopoietic system
+disorder hematopoietic system disorder
+disorder hematopoietic system navigational concept
+disorders blood blood forming organs
+disorders blood blood forming organs diagnosis
+dyscrasia blood
+haematologic disease
+haematological disorders
+haematopoietic system syndrome
+haemopoietic disease
+haemopoietic disorder
+hematol dis
+hematologic disease
+hematologic diseases
+hematologic diseases disease finding
+hematologic disorder
+hematologic disorders
+hematologic disorders diagnosis
+hematologic lymphocytic disorder
+hematologic toxicities
+hematologic toxicity
+hematological disease
+hematological diseases
+hematological disorder
+hematological disorders
+hematopoietic system syndrome
+hemopoietic disease
+hemopoietic disorder
+unspecified diseases blood blood forming organs
+lead compound causing toxic effect
+lead compound causing toxic effect disorder
+lead compound poisoning
+lead compound poisoning disorder
+lead intoxication
+lead its compounds
+lead lead compounds causing toxic effect
+lead lead compounds causing toxic effect disorder
+lead pois
+lead poison
+lead poisoning
+lead poisoning disease finding
+lead poisonings
+lead toxic effect
+painter 's colic
+pb poisoning
+plumbism
+pois lead
+poisoning by compounds lead
+poisoning by lead
+poisoning by lead diagnosis
+poisoning lead
+poisonings lead
+saturnine poisoning
+saturnism
+tox eff lead compnd
+toxic effect lead compound
+toxic effect lead compound disorder
+toxic effect lead its compounds
+toxic effect lead its compounds including fumes
+toxic effect unspecified lead compound
+toxic effects lead its compounds
+disorder paranoid
+disorders paranoid
+paranoia
+paranoia psychosis
+paranoias
+paranoid
+paranoid dis
+paranoid disorder
+paranoid disorder diagnosis
+paranoid disorder disorder
+paranoid disorders
+paranoid disorders disease finding
+paranoid psychoses
+paranoid psychosis
+paranoid psychosis disorder
+psychoses paranoid
+psychosis paranoid
+psychotic paranoia
+x]paranoid psychosis
+agitans paralysis
+bodies disease lewy parkinson 's
+disease disorders parkinson 's
+disease idiopathic parkinsons
+disease parkinson 's
+disease parkinson s
+disease parkinsons 's
+diseases parkinson
+diseases parkinson 's
+diseases parkinsons
+idiopathic parkinson 's disease
+idiopathic parkinson dis
+idiopathic parkinson disease
+idiopathic parkinsonism
+idiopathic parkinsons dis
+lewy body parkinson 's disease
+lewy body parkinson dis
+lewy body parkinson disease
+palsy shaking
+paralysis agitans
+parkinson 's
+parkinson 's dis
+parkinson 's disease
+parkinson 's disease diagnosis
+parkinson 's disease disorder
+parkinson 's disease idiopathic
+parkinson 's disease lewy body
+parkinson 's syndrome
+parkinson dis
+parkinson dis idiopathic
+parkinson disease
+parkinson disease disease finding
+parkinson disease idiopathic
+parkinson disease lewy body
+parkinson disease pd
+parkinson s disease
+parkinson`s disease
+parkinsonian
+parkinsonism primary
+parkinsons dis
+parkinsons dis idiopathic
+parkinsons dis lewy body
+parkinsons disease
+pd parkinson 's disease
+primary parkinsonism
+shaking palsy
+syndrome parkinson 's
+benign hypertension intracranial
+benign intracran hypt
+benign intracranial hyperten
+benign intracranial hypertension
+benign intracranial hypertension disorder
+benign intracranial hypertensn
+bih benign intracranial hypertension
+cerebri pseudotumor
+hypertension benign intracranial
+hypertension idiopathic intracranial
+idiopathic intracranial hypertension
+idiopathic intracranial hypertension diagnosis
+iih idiopathic intracranial hypertension
+increased pressure intracranial benign
+intracranial hypertension benign
+intracranial hypertension idiopathic
+intracranial increased pressure benign
+noninfective serous meningitis
+nonne 's syndrome
+otitic hydrocephalus syndrome
+pseudotumor cerebri
+pseudotumor cerebri disease finding
+pseudotumour cerebri
+syndrome pseudotumor cerebri
+disease rheumatic
+diseases rheumatic
+locomotor pain disorder
+musculoskeletal pain disorder
+musculoskeletal pain disorder finding
+rheumatic dis
+rheumatic disease
+rheumatic diseases
+rheumatic diseases disease finding
+rheumatics
+rheumatism
+rheumatism diagnosis
+rheumatism disorder
+rheumatism unspecified
+rheumatism unspecified disorder
+rheumatism unspecified site unspecified
