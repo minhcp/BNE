@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        254,
+        200
+      ],
+      "tensorPath": "https://github.com/minhcp/BNE/blob/master/projector/vectors_output_AvgEmb_SGw.txt.tsv",
+      "metadataPath": "https://github.com/minhcp/BNE/blob/master/projector/metadata_output_AvgEmb_SGw.txt.tsv"
+    }
+  ]
+}
