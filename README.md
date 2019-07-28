@@ -49,11 +49,18 @@ Download and extract these pre-calculated embedding file UMLS_output_BNE_SGw.txt
 # Citation
 We suggest the authors to cite this paper if you use the resources provided on this page.
 ```
-@inproceedings{minh2019bne,
-  author    = {Minh C. Phan and Aixin Sun and Yi Tay},
-  title     = {Robust Representation Learning of Biomedical Names},
-  booktitle = {ACL},
-  year      = {2019},
+@inproceedings{phan-etal-2019-robust,
+    title = "Robust Representation Learning of Biomedical Names",
+    author = "Phan, Minh C.  and
+      Sun, Aixin  and
+      Tay, Yi",
+    booktitle = "Proceedings of the 57th Conference of the Association for Computational Linguistics",
+    month = jul,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/P19-1317",
+    pages = "3275--3285",
 }
 ```
 
